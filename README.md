@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Thank you for visiting my GitHub profile!
+
+- Junior at Northeastern University studying Computer Engineering and Computer Science
+- 
 <!--
 **ritika-gurjar/ritika-gurjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
