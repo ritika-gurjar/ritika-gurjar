@@ -3,7 +3,7 @@
 Thank you for visiting my GitHub profile!
 
 A little bit about me...
-- 🖥 Rising senior at Northeastern University studying Computer Engineering and Computer Science
+- 🖥 Senior at Northeastern University studying Computer Engineering and Computer Science
 - 🌊 Working on a Mathworks project to predict rising sea levels
 - 🧬 Designing a self-replicating 3d printer and investigating properties of conductive filament
 - 🤖 Passionate about robotics, FPGAs, and PCB design
